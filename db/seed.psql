@@ -1,0 +1,13 @@
+-- const seed = () => {
+--   return Promise.all([
+--     Ship.create({ name: 'Enterprise', purpose: 'exploration' }),
+--     Ship.create({ name: 'Planet Express', purpose: 'delivery' }),
+--     Member.create({ name: 'Kirk', species: 'human' }),
+--     Member.create({ name: 'Spock', species: 'hybrid' }),
+--     Member.create({ name: 'McCoy', species: 'human' }),
+--     Member.create({ name: 'Leela', species: 'mutant' }),
+--     Member.create({ name: 'Fry', species: 'human' }),
+--     Member.create({ name: 'Bender', species: 'robot' })
+--   ])
+--   .catch(error => console.log(error));
+-- };
